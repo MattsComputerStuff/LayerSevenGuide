@@ -1,3 +1,17 @@
+Hosts for anyone:
+http://hi8k.xyz
+http://l7x.net
+http://me-tv.cloud
+http://me-tv.me
+http://metome.xyz
+http://port8k.xyz
+http://fire4k.xyz
+http://layersevenw.com
+http://layersevenx.com
+http://layerseveny.com
+http://layersevenz.com
+
+For NON VPN users ONLY:
 http://cf.business-cdn-8k.ru
 http://cf.fire4k.xyz
 http://cf.hi8k.xyz
@@ -15,14 +29,5 @@ http://pro.me-tv.cloud
 http://pro.me-tv.me
 http://pro.metome.xyz
 http://pro.port8k.xyz
-http://hi8k.xyz
-http://l7x.net
-http://me-tv.cloud
-http://me-tv.me
-http://metome.xyz
-http://port8k.xyz
-http://fire4k.xyz
-http://layersevenw.com
-http://layersevenx.com
-http://layerseveny.com
-http://layersevenz.com
+
+Note: ALL hosts have the same content. You will not gain or lose channels on one or the other. They are there to get around ISP blocks.
