@@ -1,4 +1,15 @@
-Hosts for anyone:
+Hosts suggested for VPN users or anyone:
+http://l7i.asia
+http://l7i.cc
+http://l7i.co.uk
+http://l7i.me
+http://l7i.org
+http://l7i.net
+https://layerseveny.com/
+https://layersevenz.com/
+https://layersevenw.com/
+
+Other hosts for anyone:
 http://hi8k.xyz
 http://l7x.net
 http://me-tv.cloud
@@ -12,6 +23,12 @@ http://layerseveny.com
 http://layersevenz.com
 
 For NON VPN users ONLY:
+http://cf.l7i.asia
+http://cf.l7i.cc
+http://cf.l7i.co.uk
+http://cf.l7i.me
+http://cf.l7i.org
+http://cf.l7i.net
 http://cf.fire4k.xyz
 http://cf.hi8k.xyz
 http://cf.me-tv.cloud
