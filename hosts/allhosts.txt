@@ -1,4 +1,4 @@
-Hosts suggested for VPN users or anyone:
+#Hosts for anyone:
 http://l7i.asia
 http://l7i.cc
 http://l7i.me
@@ -7,8 +7,6 @@ http://l7i.net
 https://layerseveny.com/
 https://layersevenz.com/
 https://layersevenw.com/
-
-Other hosts for anyone:
 http://hi8k.xyz
 http://l7x.net
 http://me-tv.cloud
@@ -21,7 +19,7 @@ http://layersevenx.com
 http://layerseveny.com
 http://layersevenz.com
 
-For NON VPN users ONLY:
+#For NON VPN users ONLY:
 http://cf.l7i.asia
 http://cf.l7i.cc
 http://cf.l7i.me
@@ -43,4 +41,4 @@ http://pro.me-tv.me
 http://pro.metome.xyz
 http://pro.port8k.xyz
 
-Note: ALL hosts have the same content. You will not gain or lose channels on one or the other. They are there to get around ISP blocks. There is not one better for your location in the world. Try one and if not, try another.
+#Note: ALL hosts have the same content. You will not gain or lose channels on one or the other. They are there to get around ISP blocks. There is not one better for your location in the world. Try one and if not, try another.
