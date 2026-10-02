@@ -1,3 +1,10 @@
+#Hosts for VPN Users or those getting a 511 error:
+http://apps.l7i.asia/
+http://apps.l7i.cc/
+http://apps.l7i.me/
+http://apps.l7i.org/
+http://apps.l7i.net/
+
 #Hosts for anyone:
 http://l7i.asia
 http://l7i.cc
