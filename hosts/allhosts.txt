@@ -5,7 +5,7 @@ http://apps.l7i.me/
 http://apps.l7i.org/
 http://apps.l7i.net/
 
-#Hosts for anyone:
+#Hosts for anyone OTHER THAN VPN USERS:
 http://l7i.asia
 http://l7i.cc
 http://l7i.me
@@ -25,8 +25,6 @@ http://layersevenw.com
 http://layersevenx.com
 http://layerseveny.com
 http://layersevenz.com
-
-#For NON VPN users ONLY:
 http://cf.l7i.cc
 http://cf.l7i.me
 http://cf.l7i.org
